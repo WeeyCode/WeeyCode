@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- Student of Systems Analysis and Development at FATEC<br>-Focused on applying and expanding knowledge in systems analysis and full-stack development.</p>
+<p align="left">- Student of Systems Analysis and Development at FATEC<br>- Focused on applying and expanding knowledge in systems analysis and full-stack development.</p>
 
 ###
 
