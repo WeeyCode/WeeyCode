@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="left">ABOUT ME</h2>
+<h2 align="left">👩🏻‍💻 Wesley Martins </h2>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="left">TECHs</h2>
+<h2 align="left">🤖 Languages ​​and Technologies</h2>
 
 ###
 
@@ -66,7 +66,7 @@
 
 ###
 
-<h3 align="left">STATS</h3>
+<h3 align="left">STATISTICS</h3>
 
 ###
 
