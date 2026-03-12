@@ -9,12 +9,18 @@
 ###
 
 <div align="center">
-  <a href="wesley3490" target="_blank">
+  <a href="/discord.com/users/369270613199552514" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="wesley.martins.jardim@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=WeeyCode.WeeyCode&"  />
 </div>
 
 ###
@@ -77,8 +83,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WeeyCode/WeeyCode/output/pacman-contribution-graph-dark.svg">
